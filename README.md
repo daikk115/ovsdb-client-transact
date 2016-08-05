@@ -25,3 +25,6 @@ select an Interface with its uuid : http://www.jsoneditoronline.org/?id=fd829b84
 select all Interface with special columns : http://www.jsoneditoronline.org/?id=635530d07306f100598fb8568223144d
 
 select an Interface with its uuid and special columns : http://jsoneditoronline.org/?id=2b5c51715a02acd02abd3524ade2c44a
+
+update an Interface with columns can be able to edit: [{"count":1}]
+
