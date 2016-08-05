@@ -26,5 +26,7 @@ select all Interface with special columns : http://www.jsoneditoronline.org/?id=
 
 select an Interface with its uuid and special columns : http://jsoneditoronline.org/?id=2b5c51715a02acd02abd3524ade2c44a
 
+select some Interfaces with more than one condition (the other 1): [{"rows":[{"_uuid":["uuid","30f6de34-f777-4ae3-983d-74cb7d3e63d9"]},{"_uuid":["uuid","070eadf1-0abc-4592-a260-8b29744b8407"]}]}]
+
 update an Interface with columns can be able to edit: [{"count":1}]
 
